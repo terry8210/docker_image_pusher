@@ -2,3 +2,4 @@ golang:1.20
 node:18.20
 bitnami/etcd:latest
 mysql:5.7.44
+mongo:4.4.2

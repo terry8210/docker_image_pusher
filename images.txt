@@ -6,3 +6,4 @@ mongo:4.4.2
 nginx:latest
 thinkingdata/ta-logbus-v2:latest
 python:3.9-slim
+redis:5.0.14

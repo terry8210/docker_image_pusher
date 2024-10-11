@@ -7,3 +7,4 @@ nginx:latest
 thinkingdata/ta-logbus-v2:latest
 python:3.9-slim
 redis:5.0.14
+mysql:8.0

@@ -1,3 +1,4 @@
+python:3.9-slim-bullseye
 golang:1.20
 node:18.20
 bitnami/etcd:latest
